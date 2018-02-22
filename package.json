@@ -1,0 +1,23 @@
+{
+  "name": "gitproj",
+  "version": "0.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaonvq/automatic-pancake.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shaonvq/automatic-pancake/issues"
+  },
+  "homepage": "https://github.com/shaonvq/automatic-pancake#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
